@@ -99,7 +99,7 @@ python src/preprocess.py --input data/your_textbook.pdf
 python app.py
 ```
 
-访问 [http://localhost:7860](http://localhost:7860) 即可使用。
+访问特定网站即可使用。
 
 ## 🤝 协作规范
 
